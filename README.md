@@ -1,1 +1,7 @@
-# Project_opendag
+# Project opendag
+
+Philip 
+Andrej
+Gerwin
+HEnk
+Korné
